@@ -22,6 +22,20 @@ image: lab_move2.jpg
 </div>
 </div>
 
+<div style="margin:0 2%;">
+<h1 class="entry">Honorary members</h1> 
+<div class="grid-flow">
+  {% for member in site.team %}
+      <div class="profilegrid">
+        <img src="{{ site.baseurl }}/images/{{ member.image }}" style="width:250px;height:250px;">
+        <h2 style="color:#303C6C">{{ member.name }}</h2>
+        <p>{{ member.position }}</p>
+      </div>
+      
+  {% endfor %}
+</div>
+</div>
+
 <div style="margin:0 12%;">
 <div class="mposts">
   <div class="secttitle"><h1>Alumni</h1></div>

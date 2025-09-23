@@ -1,6 +1,6 @@
 ---
 name: Feifan Wang
 position: Internship student
-current: Final year student at King's
+current: Graduated from King's
 image: IMG_0013.jpg
 --- 

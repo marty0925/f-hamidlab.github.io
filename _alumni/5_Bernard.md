@@ -1,6 +1,6 @@
 ---
 name: Ooi Wen Nuo Bernard
 position: Internship Student
-current: Awaiting graduation
+current: Graduated from King's
 image: bernard.jpg
 ---

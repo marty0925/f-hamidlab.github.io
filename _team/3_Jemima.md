@@ -1,5 +1,5 @@
 ---
 name: Jemima Onime
-position: Lido PhD candidate rotational student 
+position: LIDo PhD candidate
 image: DSC_4690(2).jpg
 ---

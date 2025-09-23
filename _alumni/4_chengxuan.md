@@ -1,7 +1,7 @@
 ---
 name: Chengxuan Ma
 position: Undergraduate intern
-current: MSc Student at King's
+current: Completed an MSc program at King's
 image: chengxuan.jpeg
 
 --- 

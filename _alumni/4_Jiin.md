@@ -1,6 +1,6 @@
 ---
 name: Jiin Park
 position: Summer internship Student
-current: 3rd year Biochemistry student
+current: Graduate from King's
 image: jiin.jpg
 ---
